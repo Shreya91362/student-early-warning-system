@@ -22,3 +22,5 @@ docs → Documentation
 
 ## Project Status
 🟡 Proposal Stage – Development begins soon.
+## Model Lifecycle
+The system supports periodic retraining to maintain predictive performance as new student data becomes available.
