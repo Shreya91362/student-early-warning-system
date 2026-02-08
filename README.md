@@ -98,4 +98,34 @@ docs/             - Project proposal
 
 1. Clone the repository.  
 2. Install dependencies:
+   
+3. Run the data generator to create the dataset.  
+4. Execute the training notebook or script to train the model.  
+5. Launch the dashboard notebook to perform predictions.  
+
+---
+
+## Note on Model Files
+Trained model artifacts are excluded from this repository due to size limitations.
+
+To regenerate the models, run the training notebook or scripts provided in the project.
+
+---
+
+## Project Timeline
+
+Week 1  - Problem Definition and Proposal  
+Week 2  - Data Generation  
+Week 3-4 - Model Training and Evaluation  
+Week 5  - Retraining Pipeline Development  
+Week 6  - Dashboard Implementation  
+Week 7  - Testing and Optimization  
+
+---
+
+## Expected Outcome
+The project delivers a deployment-ready predictive system capable of identifying students at academic risk with high reliability.
+
+By integrating training, retraining, analytics, and inference into a unified architecture, the solution demonstrates the practical application of machine learning in an educational context.
+
 
